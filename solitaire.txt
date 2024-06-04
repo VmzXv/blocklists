@@ -72,3 +72,4 @@ www.supply.inmobicdn.net
 www.i.l.inmobicdn.net
 r1-usc1.zemanta.com
 ad.doubleclick.net
+logging-gateway.vungle.io
