@@ -1,8 +1,4 @@
 payload:
-  - DOMAIN,ic.adobe.io
-  - DOMAIN,cc-api-data.adobe.io
-  - DOMAIN,0mo5a70cqa.adobe.io
-  - DOMAIN,1b9khekel6.adobe.io
   - DOMAIN,adbroker.mp.dse.microsoft.com
   - DOMAIN,ads.aerserv.com
   - DOMAIN,ads.api.vungle.com
